@@ -7,7 +7,7 @@
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
   {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
   {{ hugo.Generator }}
-  
+
   <!-- theme meta -->
   <meta name="theme-name" content="hargo-hugo" />
 
@@ -16,13 +16,11 @@
   <link rel="stylesheet" href="{{ .link | absURL }}">
   {{ end }}
 
-  {{ with site.Params.snipcartApiKey }}
-  {{ "<!-- Snipcart -->" | safeHTML }}
-  <link rel="preconnect" href="https://app.snipcart.com/">
-  <link rel="preconnect" href="https://cdn.snipcart.com/">
-  <link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.0.28/default/snipcart.css">
-  <script async src="https://cdn.snipcart.com/themes/v3.0.28/default/snipcart.js"></script>
-  {{ end }}
+  <link rel="stylesheet" href="https://shopemaa.link/themes/monalisa/css/tailwind/tailwind.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+  <script src="https://shopemaa.link/themes/monalisa/js/main.js"></script>
+  <script src="https://js.stripe.com/v3/"></script>
+  <script src="https://cdn.jsdelivr.net/gh/shopemaa/shopemaa-checkout@v0.0.2/shopemaa.js"></script>
 
   {{ "<!-- Main Stylesheet -->" | safeHTML }}
   {{ $styles := resources.Get "scss/style.scss" | toCSS | minify }}

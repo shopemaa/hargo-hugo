@@ -7,14 +7,14 @@ draft: false
 description : "For Glowing Skin"
 
 # product Price
-price: "20.00"
-priceBefore: "25.00"
+price: "39.20"
+priceBefore: "49.00"
 
 # Product Short Description
 shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
 
 #product ID
-productID: "6"
+productID: "1a739c45-9e8f-4b60-8aa8-8dcce21618f4"
 
 # type must be "products"
 type: "products"

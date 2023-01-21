@@ -121,3 +121,9 @@ ga('send', 'pageview');
 }(document, new Date(), "script", "rating-widget.com/"));
 </script>
 {{ end }}
+
+<script>
+  window.onload = function () {
+    initShopemaa("{{ site.Params.shopemaa.shopemaa_app_key }}", "{{ site.Params.shopemaa.shopemaa_app_secret }}")
+  }
+</script>

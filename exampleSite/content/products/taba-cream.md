@@ -8,13 +8,13 @@ description : "For Glowing Skin"
 
 # product Price
 price: "20.00"
-priceBefore: ""
+priceBefore: "25.00"
 
 # Product Short Description
 shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
 
 #product ID
-productID: "3"
+productID: "2803a56c-ce25-4139-8a3c-aa82bf575a7c"
 
 # type must be "products"
 type: "products"

@@ -39,6 +39,7 @@
 - Google page speed optimized ( 80% )
 - Open graph meta tag
 - Twitter card meta tag
+- Shopemaa Commerce Integration
 
 
 ## Local development
@@ -102,6 +103,11 @@ Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed 
 
 **Image license:** The images are only for demonstration purposes. They have their licenses. We don't have permission to
 share those images.
+
+
+### Powered by Shopemaa Commerce
+[Shopemaa Commerce](https://shopemaa.com)
+
 
 <!-- resources -->
 ## Special Thanks
