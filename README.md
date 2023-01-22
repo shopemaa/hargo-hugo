@@ -14,7 +14,6 @@
 - CSS and Js bundle with hugo pipe
 - Netlify settings predefine
 - Contact form Support
-- Compitable with snipcart
 - Google map support
 - Google page speed optimized ( 80% )
 - Open graph meta tag
