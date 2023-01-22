@@ -7,5 +7,3 @@ COPY . .
 WORKDIR /hargo-hugo/exampleSite
 
 EXPOSE 1313
-
-CMD ["server", "--themesDir", "../.."]

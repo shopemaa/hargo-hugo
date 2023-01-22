@@ -8,3 +8,4 @@ services:
     restart: unless-stopped
     ports:
       - "1313:1313"
+    entrypoint: [ "hugo","server", "--themesDir", "../..", "--appendPort=false", "--baseUrl=https://hugo.shopemaa.com" ]
