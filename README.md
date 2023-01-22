@@ -1,26 +1,6 @@
 <h1 align=center>Hargo Hugo</h1> 
 <p align=center> Hargo is a modern, sleek and fresh online store theme for Hugo.</p>
-<h2 align="center"><a target="_blank" href="https://demo.gethugothemes.com/hargo" rel="nofollow">Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fhargo%2Fsite%2F&form_factor=desktop">Page Speed (80%)</a> </h2>
-
-
-
-<p align=center>
-  <a href="https://github.com/gohugoio/hugo/releases/tag/v0.64.0" alt="Contributors">
-    <img src="https://img.shields.io/static/v1?label=min-HUGO-version&message=0.64.0&color=f00&logo=hugo" />
-  </a>
-
-  <a href="https://github.com/themefisher/hargo-hugo/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/themefisher/hargo-hugo" alt="license"></a>
-
-  <img src="https://img.shields.io/github/languages/code-size/themefisher/hargo-hugo" alt="code size">
-
-  <a href="https://github.com/themefisher/hargo-hugo/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/themefisher/hargo-hugo" alt="contributors"></a>
-
-  <a href="https://twitter.com/intent/follow?screen_name=gethugothemes">
-    <img src="https://img.shields.io/twitter/follow/gethugothemes?style=social&logo=twitter"
-      alt="follow on Twitter"></a>
-</p>
+<h2 align="center"><a target="_blank" href="https://hugo.shopemaa.com" rel="nofollow">Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fhargo%2Fsite%2F&form_factor=desktop">Page Speed (80%)</a> </h2>
 
 ---
 
@@ -46,7 +26,7 @@
 
 ```bash
 # clone the repository
-git clone git@github.com:themefisher/hargo-hugo.git
+git clone git@github.com:shopemaa/hargo-hugo.git
 
 # cd in the project directory
 $ cd hargo-hugo/exampleSite/
