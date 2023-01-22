@@ -84,7 +84,7 @@ Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed 
 share those images.
 
 
-### Powered by Shopemaa Commerce
+### Checkout powered by Shopemaa Commerce
 [Shopemaa Commerce](https://shopemaa.com)
 
 
